@@ -1,0 +1,7 @@
+-------Schrodinger3D
+---Srihari Sritharan, July 2010
+
+-Coarse solution works, Fine solution gives errors-->adaptivity fails.
+-Uses external eigenvalue solver.
+-Makefile/cmake still calls my compiled project as 'layer' due to my origins in the benchmark file. Don't worry about this.
+
